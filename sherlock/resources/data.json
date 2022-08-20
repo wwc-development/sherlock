@@ -371,16 +371,6 @@
     "username_claimed": "cute18cute",
     "username_unclaimed": "noonewouldeverusethis77777"
   },
-  "Chess": {
-    "errorMsg": "Username is valid",
-    "errorType": "message",
-    "regexCheck": "^[a-z1-9]{3,25}$",
-    "url": "https://www.chess.com/member/{}",
-    "urlMain": "https://www.chess.com/",
-    "urlProbe": "https://www.chess.com/callback/user/valid?username={}",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
   "CloudflareCommunity": {
     "errorType": "status_code",
     "url": "https://community.cloudflare.com/u/{}",
@@ -821,14 +811,6 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "GitHub Support Community": {
-    "errorMsg": "Oops! That page doesn\u2019t exist or is private.",
-    "errorType": "message",
-    "url": "https://github.community/u/{}/summary",
-    "urlMain": "https://github.community",
-    "username_claimed": "jperl",
-    "username_unclaimed": "noonewouldusethis298"
-  },
   "GitLab": {
     "errorMsg": "[]",
     "errorType": "message",
@@ -889,13 +871,6 @@
     "url": "https://forums.gunsandammo.com/profile/{}",
     "urlMain": "https://gunsandammo.com/",
     "username_claimed": "adam",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "GuruShots": {
-    "errorType": "status_code",
-    "url": "https://gurushots.com/{}/photos",
-    "urlMain": "https://gurushots.com/",
-    "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Gutefrage": {
@@ -1244,14 +1219,6 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "MixCloud": {
-    "errorType": "status_code",
-    "url": "https://www.mixcloud.com/{}/",
-    "urlMain": "https://www.mixcloud.com/",
-    "urlProbe": "https://api.mixcloud.com/{}/",
-    "username_claimed": "jenny",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
   "Motorradfrage": {
     "errorType": "status_code",
     "url": "https://www.motorradfrage.net/nutzer/{}",
@@ -1550,15 +1517,6 @@
     "username_claimed": "Blue",
     "username_unclaimed": "noonewouldeverusethis"
   },
-  "Quizlet": {
-    "errorMsg": "checkUsername\":{\"success\":true",
-    "errorType": "message",
-    "url": "https://quizlet.com/{}",
-    "urlMain": "https://quizlet.com",
-    "urlProbe": "https://quizlet.com/webapi/3.2/users/check-username?username={}",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis"
-  },
   "Rajce.net": {
     "errorType": "status_code",
     "url": "https://{}.rajce.idnes.cz/",
@@ -1823,13 +1781,6 @@
     "errorType": "status_code",
     "url": "https://www.sports.ru/profile/{}/",
     "urlMain": "https://www.sports.ru/",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "Star Citizen": {
-    "errorType": "status_code",
-    "url": "https://robertsspaceindustries.com/citizens/{}",
-    "urlMain": "https://robertsspaceindustries.com/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
@@ -2109,13 +2060,6 @@
     "url": "https://hosted.weblate.org/user/{}/",
     "urlMain": "https://hosted.weblate.org/",
     "username_claimed": "adam",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "Whonix Forum": {
-    "errorType": "status_code",
-    "url": "https://forums.whonix.org/u/{}",
-    "urlMain": "https://forums.whonix.org/",
-    "username_claimed": "red",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Wikidot": {
