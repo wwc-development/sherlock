@@ -346,4 +346,3 @@
 254. [xHamster](https://xhamster.com)
 255. [znanylekarz.pl](https://znanylekarz.pl)
 256. [zoomit](https://www.zoomit.ir)
-257. [Chess](https://www.chess.com/)
